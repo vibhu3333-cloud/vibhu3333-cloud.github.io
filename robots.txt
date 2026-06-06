@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vibhuvikramaditya.com/sitemap.xml
